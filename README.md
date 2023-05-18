@@ -1,2 +1,2 @@
 # TNC_googlescholar
-Code for scrubbing GS for TNC publication metrics
+Code for scrubbing Google Scholar for TNC publication metrics
